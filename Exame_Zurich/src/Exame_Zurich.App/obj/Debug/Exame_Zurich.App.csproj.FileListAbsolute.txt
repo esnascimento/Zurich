@@ -1,0 +1,16 @@
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.App.dll.config
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.App.dll
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.App.pdb
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.Domain.dll
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.ServicesExt.dll
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.ServicesExt.pdb
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.ServicesExt.dll.config
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.Domain.pdb
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Exame_Zurich.Domain.dll.config
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\obj\Debug\Exame_Zurich.App.csprojAssemblyReference.cache
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\obj\Debug\Exame_Zurich.App.csproj.CoreCompileInputs.cache
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\obj\Debug\Exame_Zurich.App.csproj.CopyComplete
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\obj\Debug\Exame_Zurich.App.dll
+D:\Projetos\Exame_Zurich\src\Exame_Zurich.App\obj\Debug\Exame_Zurich.App.pdb
